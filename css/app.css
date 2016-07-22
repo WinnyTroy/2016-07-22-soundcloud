@@ -1,0 +1,8 @@
+.callout{
+    width: 100%;
+    z-index: -500;
+}
+.callout p{
+    z-index: 10;
+    
+}
