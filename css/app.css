@@ -1,8 +1,21 @@
-.callout{
+#nav{
+   background-image: url(../img/header.jpg);
     width: 100%;
-    z-index: -500;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.callout p{
-    z-index: 10;
-    
+#nav h1{
+    color: floralwhite;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin-top: 80px;
+    word-spacing: 5px;
+
+    }
+#span{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 48px;
+    font-size: 50px;
 }
